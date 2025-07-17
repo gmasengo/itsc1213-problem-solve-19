@@ -2,10 +2,11 @@ import java.awt.Color;
 
 /**
  * This class describes a circle with a given radius and color.
- *
- * @author nanajjar
- * @version Spring 25
- */
+ *This is my private solutionto problem Solve 19
+ * @author Guylain Masengo
+ * 
+ * @version 2025 July 15
+  */
 
 public class Circle {  
     // private instance variable, not accessible from outside this class
